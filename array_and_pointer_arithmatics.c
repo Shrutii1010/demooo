@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(int argc, char const *argv[])
 {
-    int a = 45;
+    int a = 9090;
     int *ptr = &a;
     // //pointer arithmatic
     // printf("%d\n", &ptr);
